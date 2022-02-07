@@ -18,7 +18,7 @@ public class RainDropShould {
         assertEquals("2", Raindrops.plingPlangPlong(2));
     }
     @Test
-    @DisplayName("Given three, return Pling")
+    @DisplayName("Given three,  return Pling")
     public void givenThree_Return_Pling(){
         assertEquals("Pling", Raindrops.plingPlangPlong(3));
     }
