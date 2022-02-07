@@ -23,7 +23,7 @@ public class RainDropShould {
         assertEquals("Pling", Raindrops.plingPlangPlong(3));
     }
 
-//    givenANumberDivisibleByThree_ButNotFiveOrSeven_Return_PlingPlang(int input)
+//    give nANumberDivisibleByThree_ButNotFiveOrSeven_Return_PlingPlang(int input)
 //    givenFive_Return_Plang()
 //    givenANumberDivisibleByFive_ButNotThreeOrSeven_Return_Plang(int input)
 //    givenFifteen_Return_PlingPlang()
